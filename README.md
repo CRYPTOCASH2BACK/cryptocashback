@@ -31,7 +31,7 @@ The extension only works in  `Google Chrome`
 </a>
 <a href="https://binance.com">
   <img alt="BINANCE"
-       src="https://i0.wp.com/cryptohustle.com/wp-content/uploads/2018/08/binance_icon.png" />
+       src="https://i0.wp.com/cryptohustle.com/wp-content/uploads/2018/08/binance_icon.png" style="with:200px" />
 </a>
 <a href="https://coinbase.com">
   <img alt="COINBASE"
