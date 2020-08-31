@@ -27,17 +27,17 @@ The extension only works in  `Google Chrome`
 
 <a href="https://blockchain.com">
   <img alt=""
-       src="https://cdn6.aptoide.com/imgs/6/b/e/6be213998dc9514e065c4e61cd69b779_icon.png" />
+       src="https://cdn6.aptoide.com/imgs/6/b/e/6be213998dc9514e065c4e61cd69b779_icon.png" style="width: 200px;" />
 </a>
 <a href="https://binance.com">
   <img alt="BINANCE"
-       src="https://i0.wp.com/cryptohustle.com/wp-content/uploads/2018/08/binance_icon.png" style="with:200px" />
+       src="https://i0.wp.com/cryptohustle.com/wp-content/uploads/2018/08/binance_icon.png" style="width: 200px;" />
 </a>
 <a href="https://coinbase.com">
   <img alt="COINBASE"
-       src="https://happycoin.club/wp-content/uploads/2018/03/Coinbase-1.jpg" />
+       src="https://happycoin.club/wp-content/uploads/2018/03/Coinbase-1.jpg" style="width: 200px;" />
 </a>
 <a href="https://coinbase.com">
   <img alt="COINBASE"
-       src="https://www.cryptokosh.com/wp-content/uploads/2018/07/ABBsLm1s_400x400.jpg" />
+       src="https://www.cryptokosh.com/wp-content/uploads/2018/07/ABBsLm1s_400x400.jpg" style="width: 200px;" />
 </a>
